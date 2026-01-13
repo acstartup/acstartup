@@ -1,16 +1,42 @@
-## Hi there 👋
+Hey there, I'm Aiden Chen! 👨‍💻🦾🌆
 
-<!--
-**acstartup/acstartup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Engineer
 
-Here are some ideas to get you started:
+*Seeking SWE internship (now till end of Summer 2026) wanting to learn fast, work long hours, and go all-in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aiden = {
+    pronouns: "he" | "him",
+    building (atm): "UnitNode (Co-Founder)",
+    obsessively_learning (atm): "TypeScript",
+    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+    passions: ["startups", "programming", "endurance training", "lifting"],
+
+    technologies: {
+        frontend: {
+            frameworks: ["React", "Next.js"],
+            styling: ["Tailwind CSS"]
+        },
+
+        backend: {
+            frameworks: ["Node.js"],
+            services: ["Supabase"]
+        },
+
+        cloud: {
+            platforms: ["Vercel", "Render", "Google Cloud"]
+        }
+
+        devOps: {
+            tools: ["GitHub Actions"],
+            practices: ["CI/CD"]
+        }
+    }
+}
+
+<!--START_SECTION:evidence-->
+<!--END_SECTION:evidence-->
+
+
+Time of Days Coding
+Productive Day
+Spent My Time On
