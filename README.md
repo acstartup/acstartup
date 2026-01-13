@@ -4,8 +4,8 @@ Full Stack Software Engineer
 
 *Seeking SWE internship (now till end of Summer 2026) wanting to learn fast, work long hours, and go all-in.
 
-const aiden = {
-    pronouns: "he" | "him",
+const aiden = { \n
+    pronouns: "he" | "him", \n
     building (atm): "UnitNode (Co-Founder)",
     obsessively_learning (atm): "TypeScript",
     languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
@@ -35,8 +35,3 @@ const aiden = {
 
 <!--START_SECTION:evidence-->
 <!--END_SECTION:evidence-->
-
-
-Time of Days Coding
-Productive Day
-Spent My Time On
