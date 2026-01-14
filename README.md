@@ -1,37 +1,45 @@
-Hey there, I'm Aiden Chen! 👨‍💻🦾🌆
+# Hey there, I'm Aiden Chen! 👨‍💻🦾🌁
 
-Full Stack Software Engineer
+**Full Stack Software Engineer**  
+**Co-Founder @ UnitNode**  
+**Obsessively learning:** HTML, CSS, JavaScript/TypeScript
 
-*Seeking SWE internship (now till end of Summer 2026) wanting to learn fast, work long hours, and go all-in.
+---
 
-const aiden = { \n
-    pronouns: "he" | "him", \n
-    building (atm): "UnitNode (Co-Founder)",
-    obsessively_learning (atm): "TypeScript",
-    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    passions: ["startups", "programming", "endurance training", "lifting"],
+## 🚨 Looking for SWE Internships (now → end of Summer 2026)
+I'm currently searching for a software engineering internship where I can **learn fast**, **ship constantly**, **work extremely hard**, and **go all-in**.
 
-    technologies: {
-        frontend: {
-            frameworks: ["React", "Next.js"],
-            styling: ["Tailwind CSS"]
-        },
+## 💻 Connect
 
-        backend: {
-            frameworks: ["Node.js"],
-            services: ["Supabase"]
-        },
+<img src="https://skillicons.dev/icons?i=gmail" height="20" /> Gmail: [aidenchen.contact@gmail.com](mailto:aidenchen.contact@gmail.com) \
+<img src="https://skillicons.dev/icons?i=linkedin" height="20" /> LinkedIn: [https://www.linkedin.com/in/acstartup/](https://www.linkedin.com/in/acstartup/) \
+<img src="https://cdn.simpleicons.org/x/white" height="20" /> X: [https://x.com/aidencstartup](https://x.com/aidencstartup)
 
-        cloud: {
-            platforms: ["Vercel", "Render", "Google Cloud"]
-        }
+## 🎧 Tech Snapshot
+```
+const aiden = {
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  passions: ["startups", "programming", "endurance training", "lifting"],
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS"],
+    },
+    backend: {
+      runtime: ["Node.js"],
+      services: ["Supabase"],
+    },
+    cloud: {
+      platforms: ["Vercel", "Render", "Google Cloud"],
+    },
+    devOps: {
+      tools: ["GitHub Actions"],
+      practices: ["CI/CD"],
+    },
+  },
+};
+```
 
-        devOps: {
-            tools: ["GitHub Actions"],
-            practices: ["CI/CD"]
-        }
-    }
-}
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[gmail]: https://skillicons.dev/icons?i=gmail
+[linkedin]: https://skillicons.dev/icons?i=linkedin
+[x]: https://skillicons.dev/icons?i=twitter
