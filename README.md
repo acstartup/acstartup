@@ -5,7 +5,7 @@
 **Obsessively learning:** HTML, CSS, JavaScript/TypeScript
 
 ## 🚨 Looking for SWE Internships (now → end of Summer 2026)
-I'm currently searching for a software engineering internship where I can **learn fast**, **ship constantly**, **work extremely hard**, and **go all-in**.
+I'm searching for a software engineering internship where I can **ship constantly**, **go all-in**, and **sponge knowledge**. Open to all company sizes (pre-seed startups → established enterprises) and roles—I **work extremely hard** and **learn fast**.
 
 ## 💻 Connect
 
