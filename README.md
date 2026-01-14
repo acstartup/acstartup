@@ -4,14 +4,13 @@
 **Co-Founder @ UnitNode**  
 **Obsessively learning:** HTML, CSS, JavaScript/TypeScript
 
----
-
 ## 🚨 Looking for SWE Internships (now → end of Summer 2026)
 I'm currently searching for a software engineering internship where I can **learn fast**, **ship constantly**, **work extremely hard**, and **go all-in**.
 
 ## 💻 Connect
 
-<img src="https://skillicons.dev/icons?i=gmail" height="20" /> Gmail: [aidenchen.contact@gmail.com](mailto:aidenchen.contact@gmail.com) \
+🗺️ Personal Website: [https://www.acstartup.dev/](https://www.acstartup.dev/) \
+<img src="https://skillicons.dev/icons?i=gmail" height="20" /> Gmail: [aidenchen.contact@gmail.com](mailto:aidenchen.contact@gmail.com) (best way to reach me!) \
 <img src="https://skillicons.dev/icons?i=linkedin" height="20" /> LinkedIn: [https://www.linkedin.com/in/acstartup/](https://www.linkedin.com/in/acstartup/) \
 <img src="https://cdn.simpleicons.org/x/white" height="20" /> X: [https://x.com/aidencstartup](https://x.com/aidencstartup)
 
