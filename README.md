@@ -1,7 +1,7 @@
 # Hey there, I'm Aiden Chen! 👨‍💻🦾🌁
 
 **Full Stack Software Engineer**  
-**Co-Founder @ UnitNode**  
+**Co-Founder @ Stealth**  
 **Obsessively learning:** HTML, CSS, JavaScript/TypeScript
 
 ## 🚨 Looking for SWE Internships (now → end of Summer 2026)
