@@ -1,6 +1,6 @@
 # Hey there, I'm Aiden Chen! 👨‍💻🦾🌁
 
-**Building...**
+**Building...** \
 **Learning:** HTML, CSS, JavaScript/TypeScript
 
 ## 🚨 Looking for SWE Internships (now → end of Summer 2026)
