@@ -1,8 +1,7 @@
 # Hey there, I'm Aiden Chen! 👨‍💻🦾🌁
 
-**Full Stack Software Engineer**  
-**Co-Founder @ Stealth**  
-**Obsessively learning:** HTML, CSS, JavaScript/TypeScript
+**Building...**
+**Learning:** HTML, CSS, JavaScript/TypeScript
 
 ## 🚨 Looking for SWE Internships (now → end of Summer 2026)
 I'm searching for a software engineering internship where I can **ship constantly**, **go all-in**, and **sponge knowledge**. Open to all company sizes (pre-seed startups → established enterprises)—I **work extremely hard** and **learn fast**.
