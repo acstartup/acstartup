@@ -1,6 +1,6 @@
-# Hey there, I'm Aiden Chen! 👨‍💻🌁
+## Hey there, I'm Aiden Chen! 👨‍💻🌁
 
-I am a student studying and interested in **Computer Science** and **Economics**, with a focus on **Data Analysis/Engineering**!
+I'm a student studying Computer Science, Economics, and Data Science, passionate about bridging the gap between expansive open data and actionable analytics. My focus is on Data Analysis and Engineering, with a strong interest in software development and automation.
 
 ## 💻 Connect
 
