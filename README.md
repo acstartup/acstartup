@@ -1,4 +1,4 @@
-## Hey there, I'm Aiden Chen! 👨‍💻🌁
+## Hey, I'm Aiden Chen! 👨‍💻🌁
 
 I'm a student studying Computer Science, Data Science, and Economics, passionate about bridging the gap between expansive uncapitalized data and actionable insights. My focus is on Data Analytics, with a strong interest in software development.
 
