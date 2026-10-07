@@ -1,6 +1,6 @@
 ## Hey, I'm Aiden Chen! 👨‍💻🌁
 
-I'm a student at The University of Michigan studying Computer Science and Economics, passionate about bridging the gap between expansive uncapitalized data and actionable insights. My focus is on Data Analytics, with a strong interest in software development.
+I'm a student at The University of Michigan studying Computer Science and Statistics, passionate about bridging the gap between expansive uncapitalized data and actionable insights. My focus is on Data Analysis and Business Analysis, with a strong interest in data engineering.
 
 🌐 Personal Website: [https://www.acstartup.dev/](https://www.acstartup.dev/) \
 <img src="https://skillicons.dev/icons?i=gmail" height="20" /> Gmail: [aidench@umich.edu](mailto:aidench@umich.edu) (best way to reach me!) \
